@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Study/OPENGL/glfw-3.3/tests/CMakeLists.txt
+  vulkan.c
+  glad_vulkan.c
+  Создание кода...
+  vulkan.vcxproj -> D:\Study\OPENGL\Files\tests\Debug\vulkan.exe

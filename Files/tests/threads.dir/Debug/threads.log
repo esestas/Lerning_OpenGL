@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Study/OPENGL/glfw-3.3/tests/CMakeLists.txt
+  threads.c
+  tinycthread.c
+  glad_gl.c
+  Создание кода...
+  threads.vcxproj -> D:\Study\OPENGL\Files\tests\Debug\threads.exe

@@ -1,0 +1,12 @@
+﻿  LearnOpenGL.cpp
+d:\study\opengl\project\learnopengl\learnopengl\learnopengl.cpp(5): warning C4005: GLEW_STATIC: изменение макроопределения
+  d:\study\opengl\project\learnopengl\learnopengl\pch.cpp: note: см. предыдущее определение "GLEW_STATIC"
+d:\study\opengl\project\learnopengl\learnopengl\camera.h(132): warning C4244: +=: преобразование "GLdouble" в "GLfloat", возможна потеря данных
+d:\study\opengl\project\learnopengl\learnopengl\camera.h(133): warning C4244: +=: преобразование "GLdouble" в "GLfloat", возможна потеря данных
+d:\study\opengl\project\learnopengl\learnopengl\camera.h(152): warning C4244: -=: преобразование "GLdouble" в "GLfloat", возможна потеря данных
+d:\study\opengl\project\learnopengl\learnopengl\learnopengl.cpp(281): warning C4244: =: преобразование "GLdouble" в "GLfloat", возможна потеря данных
+d:\study\opengl\project\learnopengl\learnopengl\learnopengl.cpp(300): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\study\opengl\project\learnopengl\learnopengl\learnopengl.cpp(577): warning C4129: ): неизвестная escape-последовательность
+d:\study\opengl\project\learnopengl\learnopengl\learnopengl.cpp(577): warning C4305: инициализация: усечение из "int" в "char"
+d:\study\opengl\project\learnopengl\learnopengl\learnopengl.cpp(577): warning C4309: инициализация: усечение константного значения
+  LearnOpenGL.vcxproj -> D:\Study\OPENGL\Project\LearnOpenGL\Debug\LearnOpenGL.exe

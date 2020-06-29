@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Study/OPENGL/glfw-3.3/tests/CMakeLists.txt
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Создание кода...
+  glfwinfo.vcxproj -> D:\Study\OPENGL\Files\tests\Debug\glfwinfo.exe
